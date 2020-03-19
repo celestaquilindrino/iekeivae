@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aephoovaib.xn-pda07h.org/sitemap.xml
